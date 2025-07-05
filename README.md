@@ -1,6 +1,6 @@
 # AIRCRAFT RISK ANALYSIS
 ***
-![alternative](./images/aero.jpg)
+![alternative](./Images/aero.jpg)
 ## OVERVIEW
 This project analyzes aviation accidents from the National Transportation Safety Board(NTSB), covering incidents from 1962 to 2023. The goal is to identify low risk aircrafts that the company can consider for purchase as it ventures into commercial and private enterprise by cleaning, sorting, grouping, aggregating data, we extract insight for strategic decision making of aircraft acquisiotion.
 
@@ -27,14 +27,14 @@ This project uses descriptive analysis and predictions to show insight on aircra
 
 ## RESULTS
 * From my first analysis of aircraft Make by  number of accident counts, I figured that Cessna have the highest number of accident counts followed by Piper. interms of aircraft Model Cessna 152 displayed the highest accident counts followed by Cessna 172 then 172N model. Considering Piper, model PA-28-140 have the highest accident counts.
-![alternative](./images/MakebyAccident.png)
-![alternative](./images/ModelbyAccident.png)
+![alternative](./Images/MakebyAccident.png)
+![alternative](./Images/ModelbyAccident.png)
 * Comparing the Fatality rate agaist aircraft Make and Model, I figured that Boeing 737 and Boeing 737-200 models have the highest fatality rate.
-![alternative](./images/AircraftbyFatality.png)
+![alternative](./Images/AircraftbyFatality.png)
 * Personal flights displayed the highest accident counts.
-![alternative](./images/PurposebyAccident.png)
+![alternative](./Images/PurposebyAccident.png)
 * Aircrafts with 1 number of engine showed the highest accident counts
-![alternative](./images/EnginebyAccident.png)
+![alternative](./Images/EnginebyAccident.png)
 
 * Tableu dashboard [View the dashboard](https://public.tableau.com/app/profile/meshack.mboya/viz/AviationAccidentsDataAnalysis_17516663872630/Dashboard3)
 
