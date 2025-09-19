@@ -23,7 +23,7 @@ The dataset comes from National Transportation Safety Board(NTSB)[Data](https://
 11. 'Total.Fatal.Injuries': accidents that caused death, 'Total.serious.Injuries' : accidents that caused servier injuries, 'Total.Minor.Injuries' : accidents that caused minor injuries, 'Total.Uninjered' : accidents that did not cause injuries
 
 ## METHODS
-This project uses descriptive analysis and predictions to show insight on aircraft risk
+This project uses descriptive analysis to show insight on aircraft risk
 
 ## RESULTS
 * From my first analysis of aircraft Make by  number of accident counts, I figured that Cessna have the highest number of accident counts followed by Piper. interms of aircraft Model Cessna 152 displayed the highest accident counts followed by Cessna 172 then 172N model. Considering Piper, model PA-28-140 have the highest accident counts.
